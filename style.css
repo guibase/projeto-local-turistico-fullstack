@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color: #F5F4F0;
+  background-size: cover;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px 80px 137px;
+}
+
+#busan header {
+  color: #E1624F;
+  font-weight: 700;
+}
+
+#busan h1 {
+  color: #1B1B1B;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+#busan img {
+  margin-bottom: 24px;
+}
+
+#busan p {
+  color: #333333;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#destinos header {
+  color: #E1624F;
+  font-weight: 700;
+}
+
+#destinos h2 {
+  color: #1B1B1B;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+#point {
+  color: #333333;
+  margin-bottom: 64px;
+}
+
+#haedong img {
+  margin-bottom: 20px;
+}
+
+#haedong h3 {
+  color: #1B1B1B;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#haedong p {
+  color: #333333;
+}
+
+#haedong ul {
+  margin-bottom: 40px;
+  padding-left: 20px;
+  color: #0C51A7;
+  font-weight: bold;
+  margin-bottom: 48px;
+}
+
+#beomeo img {
+  margin-bottom: 20px;
+}
+
+#beomeo h3 {
+  color: #1B1B1B;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#beomeo p {
+  color: #333333;
+}
+
+#beomeo ul {
+  margin-bottom: 40px;
+  padding-left: 20px;
+  color: #0C51A7;
+  font-weight: bold;
+  margin-bottom: 48px;
+}
+
+#youngdusan img {
+  margin-bottom: 20px;
+}
+
+#youngdusan h3 {
+  color: #1B1B1B;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#youngdusan p {
+  color: #333333;
+}
+
+#youngdusan ul {
+  margin-bottom: 40px;
+  padding-left: 20px;
+  font-weight: bold;
+  margin-bottom: 48px;
+}
+
+#casais {
+  color: #E95E10;
+  font-weight: bold;
+}
+
+#familia {
+  color: #E5245E;
+  font-weight: bold;
+}
+
+#orçamento {
+  color: #591B98;
+  font-weight: bold;
+}
+
+hr {
+  margin: 40px 0;
+  color: #D9D9D9;
+}
+
+#final {
+  color: #333333;
+  text-align: center;
+}
+
+footer {
+  margin: 65px 0 48px;
+  width: 1120px;
+  text-align: center;
+  color: #333333;
+}
+
+footer img {
+  align-items: center;
+}
