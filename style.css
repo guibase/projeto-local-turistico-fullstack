@@ -8,15 +8,16 @@
 }
 
 body {
+  display: flex;
   background-color: #F5F4F0;
   background-size: cover;
+  justify-content: center;
 }
 
 #page {
   box-sizing: border-box;
   width: 1120px;
   margin: 88px 80px 137px;
-  justify-content: center;
 }
 
 #busan header {
