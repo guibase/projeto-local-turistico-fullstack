@@ -155,8 +155,7 @@ hr {
 }
 
 footer {
-  display: flex;
-  margin: 65px auto 48px;
+  margin: 65px 0 48px;
   text-align: center;
   color: #333333;
 }
